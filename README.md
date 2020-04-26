@@ -8,3 +8,5 @@
    - create version-check (to update/deploy new version in future)
    - do blockers (vba-code/cells/sheets)
    - e.t.c
+
+![Image of PC](https://github.com/warcep/PC_data_app/blob/master/dashboard.JPG)
