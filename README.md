@@ -6,7 +6,6 @@
    - create final version of DB in server -> correct sql queries
    - create accounts/db (row level security)'
    - create version-check (to update/deploy new version in future)
-   - do blockers (vba-code/cells/sheets)
-   - e.t.c
+   - create blockers (vba-code/cells/sheets)
 
 ![Image of PC](https://github.com/warcep/PC_data_app/blob/master/dashboard.JPG)
