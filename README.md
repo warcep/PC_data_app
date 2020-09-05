@@ -8,7 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Application to insert & get & update DATA to AZURE SQL server with dashboard created in excel to order & color & others
-![Image of PC](https://github.com/warcep/PC_data_app/blob/master/dashboard.JPG)
+![Image of PC](https://github.com/warcep/PC_data_app/blob/master/images/dashboard.JPG)
 
 ### Prerequisites
 * VBA
